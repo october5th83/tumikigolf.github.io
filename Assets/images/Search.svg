@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.64955357,15.8702567 C4.80301339,15.8702567 1.67410714,12.7413504 1.67410714,8.89481027 C1.67410714,5.04827009 4.80301339,1.91936384 8.64955357,1.91936384 C12.4960938,1.91936384 15.625,5.04827009 15.625,8.89481027 C15.625,12.7413504 12.4960938,15.8702567 8.64955357,15.8702567 M17.2991071,8.89481027 C17.2991071,4.12527902 13.4190848,0.245256696 8.64955357,0.245256696 C3.88002232,0.245256696 0,4.12527902 0,8.89481027 C0,13.6643415 3.88002232,17.5443638 8.64955357,17.5443638 C10.7332589,17.5443638 12.6473214,16.8032924 14.1422991,15.5711496 L18.1021205,19.531529 L19.2862723,18.3473772 L15.3258929,14.3875558 C16.5580357,12.8925781 17.2991071,10.9785156 17.2991071,8.89481027" id="path-1"></path>
+        <linearGradient x1="50%" y1="239.703125%" x2="50%" y2="-63.3671875%" id="linearGradient-3">
+            <stop stop-color="#CEA197" offset="0%"></stop>
+            <stop stop-color="#A08B5D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02.-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Input/Type/Icon/Default" transform="translate(-10.000000, -16.000000)">
+            <g id="icons/Search" transform="translate(7.000000, 13.000000)">
+                <g id="Search" transform="translate(3.125000, 3.125000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                    <g id="color/gold-50" mask="url(#mask-2)" fill="url(#linearGradient-3)">
+                        <g transform="translate(-3.125000, -3.125000)" id="C3B597">
+                            <rect x="0" y="0" width="74" height="74"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
